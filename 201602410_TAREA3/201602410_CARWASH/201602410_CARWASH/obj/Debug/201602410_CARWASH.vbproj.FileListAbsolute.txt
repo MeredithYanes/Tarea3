@@ -1,0 +1,11 @@
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\201602410_CARWASH\201602410_CARWASH\bin\Debug\201602410_CARWASH.exe.config
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\201602410_CARWASH\201602410_CARWASH\bin\Debug\201602410_CARWASH.exe
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\201602410_CARWASH\201602410_CARWASH\bin\Debug\201602410_CARWASH.pdb
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\201602410_CARWASH\201602410_CARWASH\bin\Debug\201602410_CARWASH.xml
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\201602410_CARWASH\201602410_CARWASH\obj\Debug\_201602410_CARWASH.Form1.resources
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\201602410_CARWASH\201602410_CARWASH\obj\Debug\_201602410_CARWASH.Resources.resources
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\201602410_CARWASH\201602410_CARWASH\obj\Debug\201602410_CARWASH.vbproj.GenerateResource.Cache
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\201602410_CARWASH\201602410_CARWASH\obj\Debug\201602410_CARWASH.exe
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\201602410_CARWASH\201602410_CARWASH\obj\Debug\201602410_CARWASH.xml
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\201602410_CARWASH\201602410_CARWASH\obj\Debug\201602410_CARWASH.pdb
+C:\Users\Dell Latitude E6440\OneDrive\Escritorio\tareas\PROGRA 092\Visual Studio 2013\Projects\Nueva carpeta\201602410_CARWASH\201602410_CARWASH\obj\Debug\_201602410_CARWASH.Form2.resources
